@@ -1,0 +1,2 @@
+1	benachin	jaune
+2	manioc	blanc

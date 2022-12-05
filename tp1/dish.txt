@@ -1,0 +1,2 @@
+1	domada	resistance	1	tomate	rouge	1	benachin	jaune
+2	bamal	buffet	2	arachide	marone	2	manioc	blanc
