@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0125101737fe619621491d9c523cf26b",
+        "name": "soupe-banga.jpg",
+        "path": "file:/home/leo/Desktop/New%20Folder12/novo/soupe-banga.jpg",
+        "size": {
+            "width": 1300,
+            "height": 1122
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "uT9Gup0Ny",
+            "type": "RECTANGLE",
+            "tags": [
+                "bouillont de viande"
+            ],
+            "boundingBox": {
+                "height": 584.7042253521126,
+                "width": 515.6534954407294,
+                "left": 445.64019756838906,
+                "top": 256.7957746478873
+            },
+            "points": [
+                {
+                    "x": 445.64019756838906,
+                    "y": 256.7957746478873
+                },
+                {
+                    "x": 961.2936930091186,
+                    "y": 256.7957746478873
+                },
+                {
+                    "x": 961.2936930091186,
+                    "y": 841.5
+                },
+                {
+                    "x": 445.64019756838906,
+                    "y": 841.5
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

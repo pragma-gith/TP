@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bdde47e375e8f1aa9030dd3e780c23b5",
+        "name": "omelette%20Djiboutienne.jpg",
+        "path": "file:/home/leo/Desktop/New%20Folder12/novo/omelette%20Djiboutienne.jpg",
+        "size": {
+            "width": 1200,
+            "height": 675
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "AUbYALGys",
+            "type": "RECTANGLE",
+            "tags": [
+                "chou"
+            ],
+            "boundingBox": {
+                "height": 398.558648111332,
+                "width": 339.217877094972,
+                "left": 147.48603351955308,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 147.48603351955308,
+                    "y": 0
+                },
+                {
+                    "x": 486.7039106145251,
+                    "y": 0
+                },
+                {
+                    "x": 486.7039106145251,
+                    "y": 398.558648111332
+                },
+                {
+                    "x": 147.48603351955308,
+                    "y": 398.558648111332
+                }
+            ]
+        },
+        {
+            "id": "XCbTbBLUp",
+            "type": "RECTANGLE",
+            "tags": [
+                "riz sauce tomate"
+            ],
+            "boundingBox": {
+                "height": 460.2882703777335,
+                "width": 733.4078212290502,
+                "left": 466.5921787709497,
+                "top": 119.05597664015905
+            },
+            "points": [
+                {
+                    "x": 466.5921787709497,
+                    "y": 119.05597664015905
+                },
+                {
+                    "x": 1200,
+                    "y": 119.05597664015905
+                },
+                {
+                    "x": 1200,
+                    "y": 579.3442470178925
+                },
+                {
+                    "x": 466.5921787709497,
+                    "y": 579.3442470178925
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

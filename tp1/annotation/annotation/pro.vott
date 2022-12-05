@@ -1,0 +1,749 @@
+{
+    "name": "pro",
+    "securityToken": "pro Token",
+    "sourceConnection": {
+        "name": "img",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZjcyNDUwODMyZDVkZTg5ODhkZDVjMGFiMzE5NzE1ZDA4MjVmMDQwYTcwMTI0OWY3YmY2NDgyMzU0MDVlMjUyODA5MTQ2YmQzNmJiOWZhYmExYTM5ZmQ2MjA2YzViNTI2NTg1MDNlMmYyMDMwZGZlM2JjN2RiYzFhZTQ0NDlhMTciLCJpdiI6IjYxOTdiZjg1YWJlOWMwOTQ5Y2RhMWYwZmFlYzY3YTg5ZDEzZjRkNzBjZjY2MjIwOCJ9"
+        },
+        "id": "Nv2xKSBz-"
+    },
+    "targetConnection": {
+        "name": "anno",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNTk0Y2U5ZjUxOTljZTc3N2RmZjQ0MjViODg1OWMwMzA5M2Q2ZjI5ZWVmN2U0MjU4NzYzZWE3MjRiMTE3ODU3YmYyMmI0MzJkOTk2NGEzMGJjZGJmOGQ2MGM0ZDJhM2M5YjYzYzU2OWYxNWU3MzA5ZWNlZjMxMzcwMDY4M2ZjN2UiLCJpdiI6IjZiZWMzNDA4Yjk4OGQ0MGZhNDViY2MyODcwOWNmZTVlNTkyNTJkMDY0YzgzNTYxNSJ9"
+        },
+        "id": "anGHOH7FG"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "viande",
+            "color": "#5db300"
+        },
+        {
+            "name": "carrotte",
+            "color": "#e81123"
+        },
+        {
+            "name": "tomate",
+            "color": "#6917aa"
+        },
+        {
+            "name": "chou",
+            "color": "#015cda"
+        },
+        {
+            "name": "pomme de terre",
+            "color": "#4894fe"
+        },
+        {
+            "name": "percile",
+            "color": "#6b849c"
+        },
+        {
+            "name": "epinard",
+            "color": "#70c400"
+        },
+        {
+            "name": "oeuf",
+            "color": "#f7929a"
+        },
+        {
+            "name": "riz",
+            "color": "#257ffe"
+        },
+        {
+            "name": "poissons",
+            "color": "#ddabe9"
+        },
+        {
+            "name": "oignons",
+            "color": "#ff8c00"
+        },
+        {
+            "name": "viande seche",
+            "color": "#386300"
+        },
+        {
+            "name": "gombo",
+            "color": "#b40e1b"
+        },
+        {
+            "name": "piments",
+            "color": "#68217a"
+        },
+        {
+            "name": "bouillont de viande",
+            "color": "#33cccc"
+        },
+        {
+            "name": "sauce tomate viande achee",
+            "color": "#016afe"
+        },
+        {
+            "name": "spagetty",
+            "color": "#595959"
+        },
+        {
+            "name": "poivron",
+            "color": "#808080"
+        },
+        {
+            "name": "sauce epicee",
+            "color": "#990066"
+        },
+        {
+            "name": "riz sauce tomate",
+            "color": "#00bcf2"
+        },
+        {
+            "name": "sauce arachide",
+            "color": "#5db300"
+        },
+        {
+            "name": "riz sauce d'arachide",
+            "color": "#e81123"
+        },
+        {
+            "name": "gateau",
+            "color": "#6917aa"
+        },
+        {
+            "name": "soupe ",
+            "color": "#015cda"
+        },
+        {
+            "name": "champignon",
+            "color": "#4894fe"
+        },
+        {
+            "name": "poulet",
+            "color": "#6b849c"
+        },
+        {
+            "name": "olive",
+            "color": "#70c400"
+        },
+        {
+            "name": "crepe",
+            "color": "#f7929a"
+        },
+        {
+            "name": "saucice de porq",
+            "color": "#257ffe"
+        },
+        {
+            "name": "epices",
+            "color": "#ddabe9"
+        },
+        {
+            "name": "mais",
+            "color": "#ff8c00"
+        },
+        {
+            "name": "macaroni",
+            "color": "#386300"
+        },
+        {
+            "name": "salade de legume",
+            "color": "#b40e1b"
+        }
+    ],
+    "id": "t_P1wCan0",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNjM3NGFiMzA4Nzg0MTc0YjU1NDI5ZTlhMDVjNmQ1YjYyZTNjMTlhYjU3YjJhNjBjY2QyNTJlMTdkNTE4OWFkNTE0OTE5OGFlNjcyZjNlYmI5YTQ1NGYxMGNjZWI1YzRmIiwiaXYiOiI0ZmJkNDZhM2FlMjQxNmQxYmU5ZDE1MzQ0OGZlNjJhZTNlZTViY2NkNTgwZGJkMzMifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "3a5efe1c9521b1f6eb9ecacf60475f1a",
+    "assets": {
+        "de399885e9227b7c8b42ab554323609b": {
+            "format": "jpg",
+            "id": "de399885e9227b7c8b42ab554323609b",
+            "name": "Fah-fah.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/Fah-fah.jpg",
+            "size": {
+                "width": 768,
+                "height": 765
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2e61d2c1caf94872045d324c043a956b": {
+            "format": "jpg",
+            "id": "2e61d2c1caf94872045d324c043a956b",
+            "name": "fatira.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/fatira.jpg",
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b7da71656519008e11f566c6a9738cff": {
+            "format": "jpg",
+            "id": "b7da71656519008e11f566c6a9738cff",
+            "name": "Skudahkharis.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/Skudahkharis.jpg",
+            "size": {
+                "width": 768,
+                "height": 766
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3243656013c85b41899b954fa97838a7": {
+            "format": "jpg",
+            "id": "3243656013c85b41899b954fa97838a7",
+            "name": "bajiyos-djibouti-beignets-de-legumes-sans-gluten.640x480.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/bajiyos-djibouti-beignets-de-legumes-sans-gluten.640x480.jpg",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d6b42aef40a9232a24557eba832965b9": {
+            "format": "jpg",
+            "id": "d6b42aef40a9232a24557eba832965b9",
+            "name": "domada-ragout-d-arachide.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/domada-ragout-d-arachide.jpg",
+            "size": {
+                "width": 1300,
+                "height": 986
+            },
+            "state": 2,
+            "type": 1
+        },
+        "07136c885252a19e456a9ab2df253ecb": {
+            "format": "jpg",
+            "id": "07136c885252a19e456a9ab2df253ecb",
+            "name": "fromage-parmesan.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/fromage-parmesan.jpg",
+            "size": {
+                "width": 1300,
+                "height": 1004
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7f72a193ea081bc2358ebf21a5ffbd57": {
+            "format": "jpg",
+            "id": "7f72a193ea081bc2358ebf21a5ffbd57",
+            "name": "kebda.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/kebda.jpg",
+            "size": {
+                "width": 600,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "91555e2759512d8ba74e88235195063a": {
+            "format": "jpg",
+            "id": "91555e2759512d8ba74e88235195063a",
+            "name": "kullunti%20saalo.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/kullunti%20saalo.jpg",
+            "size": {
+                "width": 1200,
+                "height": 923
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bdde47e375e8f1aa9030dd3e780c23b5": {
+            "format": "jpg",
+            "id": "bdde47e375e8f1aa9030dd3e780c23b5",
+            "name": "omelette%20Djiboutienne.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/omelette%20Djiboutienne.jpg",
+            "size": {
+                "width": 1200,
+                "height": 675
+            },
+            "state": 2,
+            "type": 1
+        },
+        "752c4c3adc107f1b95e0b5340db24a9a": {
+            "format": "jpg",
+            "id": "752c4c3adc107f1b95e0b5340db24a9a",
+            "name": "poulet%20%C3%A9pic%C3%A9%20de%20djibouti.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/poulet%20%C3%A9pic%C3%A9%20de%20djibouti.jpg",
+            "size": {
+                "width": 800,
+                "height": 465
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d85ed84e2fefe66dc303777cdca56e57": {
+            "format": "jpg",
+            "id": "d85ed84e2fefe66dc303777cdca56e57",
+            "name": "poulet-sauce-soja-et-gingembre-610x300.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/poulet-sauce-soja-et-gingembre-610x300.jpg",
+            "size": {
+                "width": 610,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f2b5ccaf7521ce657d90f0a2a3f24ff5": {
+            "format": "jpg",
+            "id": "f2b5ccaf7521ce657d90f0a2a3f24ff5",
+            "name": "ragout-de-poulet-aux-noix-de-cajou-les-poivrons-et-le-riz-.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/ragout-de-poulet-aux-noix-de-cajou-les-poivrons-et-le-riz-.jpg",
+            "size": {
+                "width": 1300,
+                "height": 956
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f3fb3cbc06ca8ecf1754bfb08c5450ba": {
+            "format": "jpg",
+            "id": "f3fb3cbc06ca8ecf1754bfb08c5450ba",
+            "name": "riz%20djiboutien.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/riz%20djiboutien.jpg",
+            "size": {
+                "width": 952,
+                "height": 1024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e67a67b78064e7bba4cde2a18e523081": {
+            "format": "jpg",
+            "id": "e67a67b78064e7bba4cde2a18e523081",
+            "name": "sabaya%20galette%20feuillet%C3%A9e.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/sabaya%20galette%20feuillet%C3%A9e.jpg",
+            "size": {
+                "width": 960,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cf14d6951f0a4decd3677ea51e1156b8": {
+            "format": "jpg",
+            "id": "cf14d6951f0a4decd3677ea51e1156b8",
+            "name": "souche-de-pain.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/souche-de-pain.jpg",
+            "size": {
+                "width": 1300,
+                "height": 956
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0125101737fe619621491d9c523cf26b": {
+            "format": "jpg",
+            "id": "0125101737fe619621491d9c523cf26b",
+            "name": "soupe-banga.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/soupe-banga.jpg",
+            "size": {
+                "width": 1300,
+                "height": 1122
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fae4716c0e957ec3230ff9da929cab56": {
+            "format": "jpg",
+            "id": "fae4716c0e957ec3230ff9da929cab56",
+            "name": "soupe-harira.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/soupe-harira.jpg",
+            "size": {
+                "width": 1300,
+                "height": 866
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4180aed40891f902fb01d6beacd3cad0": {
+            "format": "jpg",
+            "id": "4180aed40891f902fb01d6beacd3cad0",
+            "name": "soupe-ora.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/soupe-ora.jpg",
+            "size": {
+                "width": 1300,
+                "height": 893
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e27517fbaf155694cb69f2eb8beb8ad8": {
+            "format": "jpg",
+            "id": "e27517fbaf155694cb69f2eb8beb8ad8",
+            "name": "soupe-viande-des-pois-chiches-des-lentilles-des-tomates.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/soupe-viande-des-pois-chiches-des-lentilles-des-tomates.jpg",
+            "size": {
+                "width": 1300,
+                "height": 866
+            },
+            "state": 2,
+            "type": 1
+        },
+        "51ad2b0a7e2c0c3bbaad93fc9e3496ca": {
+            "format": "jpg",
+            "id": "51ad2b0a7e2c0c3bbaad93fc9e3496ca",
+            "name": "viande%20hach%C3%A9e%20banane.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/viande%20hach%C3%A9e%20banane.jpg",
+            "size": {
+                "width": 2448,
+                "height": 2448
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0798050bd303bb70bc1c8d6319837f75": {
+            "format": "jpg",
+            "id": "0798050bd303bb70bc1c8d6319837f75",
+            "name": "viande-de-domoda.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/viande-de-domoda.jpg",
+            "size": {
+                "width": 866,
+                "height": 1390
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8fc4e0a8899d0a417511511cba3358dd": {
+            "format": "jpg",
+            "id": "8fc4e0a8899d0a417511511cba3358dd",
+            "name": "yassine.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/yassine.jpg",
+            "size": {
+                "width": 1300,
+                "height": 957
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0ae547dc5b163c86f27629c147b1eeb5": {
+            "format": "jpg",
+            "id": "0ae547dc5b163c86f27629c147b1eeb5",
+            "name": "yukie.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/yukie.jpg",
+            "size": {
+                "width": 1300,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8c7efa1009bb8047ad7dfeda199a2625": {
+            "format": "jpg",
+            "id": "8c7efa1009bb8047ad7dfeda199a2625",
+            "name": "Gibidda.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/Gibidda.jpg",
+            "size": {
+                "width": 1024,
+                "height": 1024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a112b81694dd109588698baa76c8eb23": {
+            "format": "jpg",
+            "id": "a112b81694dd109588698baa76c8eb23",
+            "name": "abacha-plat-%C3%A0-base-de-manioc.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/abacha-plat-%C3%A0-base-de-manioc.jpg",
+            "size": {
+                "width": 1300,
+                "height": 934
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cbf0eb3c9a41c80ed62c33f188112f5a": {
+            "format": "jpg",
+            "id": "cbf0eb3c9a41c80ed62c33f188112f5a",
+            "name": "abacha.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/abacha.jpg",
+            "size": {
+                "width": 1300,
+                "height": 888
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ed87138272f9c76b73490991479c8663": {
+            "format": "jpg",
+            "id": "ed87138272f9c76b73490991479c8663",
+            "name": "abakura.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/abakura.jpg",
+            "size": {
+                "width": 1300,
+                "height": 1104
+            },
+            "state": 2,
+            "type": 1
+        },
+        "019c7215a812fc58897d4f30add89a93": {
+            "format": "jpg",
+            "id": "019c7215a812fc58897d4f30add89a93",
+            "name": "chana.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/chana.jpg",
+            "size": {
+                "width": 1300,
+                "height": 866
+            },
+            "state": 2,
+            "type": 1
+        },
+        "579c74c6eccb1b331e8309df54dfb626": {
+            "format": "jpg",
+            "id": "579c74c6eccb1b331e8309df54dfb626",
+            "name": "couscous-viande.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/couscous-viande.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ac722e09832c15fb0da37193cb25653c": {
+            "format": "jpg",
+            "id": "ac722e09832c15fb0da37193cb25653c",
+            "name": "doro-rago%C3%BBt-de-poulet.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/doro-rago%C3%BBt-de-poulet.jpg",
+            "size": {
+                "width": 1300,
+                "height": 861
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d3c2cddf1d745e7caaf16e25bd02bf8b": {
+            "format": "jpg",
+            "id": "d3c2cddf1d745e7caaf16e25bd02bf8b",
+            "name": "grillade-de-saucice-a-la-patate.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/grillade-de-saucice-a-la-patate.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "75b60776bc2ceaad4c1ab6f39fb67855": {
+            "format": "jpg",
+            "id": "75b60776bc2ceaad4c1ab6f39fb67855",
+            "name": "hungarian.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/hungarian.jpg",
+            "size": {
+                "width": 389,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ab251d6b652809bf19732bb38a591a1b": {
+            "format": "jpg",
+            "id": "ab251d6b652809bf19732bb38a591a1b",
+            "name": "masala.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/masala.jpg",
+            "size": {
+                "width": 1300,
+                "height": 866
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8cc902f8ff27a6986c5c54bd73af0e46": {
+            "format": "jpg",
+            "id": "8cc902f8ff27a6986c5c54bd73af0e46",
+            "name": "oeuf-brouill%C3%A9s-de-salade-de-l%C3%A9gumes.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/oeuf-brouill%C3%A9s-de-salade-de-l%C3%A9gumes.jpg",
+            "size": {
+                "width": 866,
+                "height": 1300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4004e4edf60210db6ea600fb557abab3": {
+            "format": "jpg",
+            "id": "4004e4edf60210db6ea600fb557abab3",
+            "name": "oeuf-salade-de-l%C3%A9gumes.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/oeuf-salade-de-l%C3%A9gumes.jpg",
+            "size": {
+                "width": 1300,
+                "height": 866
+            },
+            "state": 2,
+            "type": 1
+        },
+        "99987d7183bb0df9e44269cd50f9fab3": {
+            "format": "jpg",
+            "id": "99987d7183bb0df9e44269cd50f9fab3",
+            "name": "patate-de-viande.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/patate-de-viande.jpg",
+            "size": {
+                "width": 428,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de528a5b1fe0460f7a32468c472f3be9": {
+            "format": "jpg",
+            "id": "de528a5b1fe0460f7a32468c472f3be9",
+            "name": "plats-traditionnels.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/plats-traditionnels.jpg",
+            "size": {
+                "width": 1300,
+                "height": 771
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bdb18d0931f5bfb7f8ef75db75657ae0": {
+            "format": "jpg",
+            "id": "bdb18d0931f5bfb7f8ef75db75657ae0",
+            "name": "poulet-au-citron-.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/poulet-au-citron-.jpg",
+            "size": {
+                "width": 1300,
+                "height": 869
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cc283de0fd3b65303e50039f528fcc9b": {
+            "format": "jpg",
+            "id": "cc283de0fd3b65303e50039f528fcc9b",
+            "name": "rago%C3%BBt-de-poulet-rouge-yebeg-alicha.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/rago%C3%BBt-de-poulet-rouge-yebeg-alicha.jpg",
+            "size": {
+                "width": 1300,
+                "height": 866
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ad37f58e28a14a4b47c0b1d706fc09dc": {
+            "format": "jpg",
+            "id": "ad37f58e28a14a4b47c0b1d706fc09dc",
+            "name": "rago%C3%BBt-de-poulet.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/rago%C3%BBt-de-poulet.jpg",
+            "size": {
+                "width": 1300,
+                "height": 767
+            },
+            "state": 2,
+            "type": 1
+        },
+        "81d7c288a8ec2251413bcdba770c9dfa": {
+            "format": "jpg",
+            "id": "81d7c288a8ec2251413bcdba770c9dfa",
+            "name": "riz-jollof.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/riz-jollof.jpg",
+            "size": {
+                "width": 1300,
+                "height": 867
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bbc88b76dbc90049b8afae921b214a69": {
+            "format": "jpg",
+            "id": "bbc88b76dbc90049b8afae921b214a69",
+            "name": "riz-saut%C3%A9.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/riz-saut%C3%A9.jpg",
+            "size": {
+                "width": 450,
+                "height": 311
+            },
+            "state": 2,
+            "type": 1
+        },
+        "66619a2a52958267ab6460acd0d21e4f": {
+            "format": "jpg",
+            "id": "66619a2a52958267ab6460acd0d21e4f",
+            "name": "riz-viande.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/riz-viande.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "69a8093636e9d222737c13a13b8812d1": {
+            "format": "jpg",
+            "id": "69a8093636e9d222737c13a13b8812d1",
+            "name": "salade-de-l-gumes.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/salade-de-l-gumes.jpg",
+            "size": {
+                "width": 866,
+                "height": 1300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5d9af9a11fdd2c4fe5bba3a25745228a": {
+            "format": "jpg",
+            "id": "5d9af9a11fdd2c4fe5bba3a25745228a",
+            "name": "salade-de-l%C3%A9gumes.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/salade-de-l%C3%A9gumes.jpg",
+            "size": {
+                "width": 1300,
+                "height": 866
+            },
+            "state": 2,
+            "type": 1
+        },
+        "213ac2aa2cefb52e3cb088358ace302a": {
+            "format": "jpg",
+            "id": "213ac2aa2cefb52e3cb088358ace302a",
+            "name": "samosa.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/samosa.jpg",
+            "size": {
+                "width": 1300,
+                "height": 957
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3a5efe1c9521b1f6eb9ecacf60475f1a": {
+            "format": "jpg",
+            "id": "3a5efe1c9521b1f6eb9ecacf60475f1a",
+            "name": "shakshuka.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/shakshuka.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e610e743e9cff5186f9f708e58b35fa1": {
+            "format": "jpg",
+            "id": "e610e743e9cff5186f9f708e58b35fa1",
+            "name": "sauce-verte.jpg",
+            "path": "file:/home/leo/Desktop/New%20Folder12/novo/sauce-verte.jpg",
+            "size": {
+                "width": 1300,
+                "height": 950
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

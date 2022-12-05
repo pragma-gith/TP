@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8c7efa1009bb8047ad7dfeda199a2625",
+        "name": "Gibidda.jpg",
+        "path": "file:/home/leo/Desktop/New%20Folder12/novo/Gibidda.jpg",
+        "size": {
+            "width": 1024,
+            "height": 1024
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "jldqdsBmX",
+            "type": "RECTANGLE",
+            "tags": [
+                "crepe"
+            ],
+            "boundingBox": {
+                "height": 751.7746478873239,
+                "width": 313.6901408450704,
+                "left": 419.15492957746477,
+                "top": 165.8591549295775
+            },
+            "points": [
+                {
+                    "x": 419.15492957746477,
+                    "y": 165.8591549295775
+                },
+                {
+                    "x": 732.8450704225352,
+                    "y": 165.8591549295775
+                },
+                {
+                    "x": 732.8450704225352,
+                    "y": 917.6338028169014
+                },
+                {
+                    "x": 419.15492957746477,
+                    "y": 917.6338028169014
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

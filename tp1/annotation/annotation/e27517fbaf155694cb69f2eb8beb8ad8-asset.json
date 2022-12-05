@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e27517fbaf155694cb69f2eb8beb8ad8",
+        "name": "soupe-viande-des-pois-chiches-des-lentilles-des-tomates.jpg",
+        "path": "file:/home/leo/Desktop/New%20Folder12/novo/soupe-viande-des-pois-chiches-des-lentilles-des-tomates.jpg",
+        "size": {
+            "width": 1300,
+            "height": 866
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "M06SnAtv6",
+            "type": "RECTANGLE",
+            "tags": [
+                "bouillont de viande"
+            ],
+            "boundingBox": {
+                "height": 358.2922535211268,
+                "width": 800.1172332942556,
+                "left": 202.4344226260258,
+                "top": 346.09507042253523
+            },
+            "points": [
+                {
+                    "x": 202.4344226260258,
+                    "y": 346.09507042253523
+                },
+                {
+                    "x": 1002.5516559202814,
+                    "y": 346.09507042253523
+                },
+                {
+                    "x": 1002.5516559202814,
+                    "y": 704.387323943662
+                },
+                {
+                    "x": 202.4344226260258,
+                    "y": 704.387323943662
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

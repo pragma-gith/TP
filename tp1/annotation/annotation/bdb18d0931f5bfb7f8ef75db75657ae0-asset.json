@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bdb18d0931f5bfb7f8ef75db75657ae0",
+        "name": "poulet-au-citron-.jpg",
+        "path": "file:/home/leo/Desktop/New%20Folder12/novo/poulet-au-citron-.jpg",
+        "size": {
+            "width": 1300,
+            "height": 869
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "FXTr6cv8D",
+            "type": "RECTANGLE",
+            "tags": [
+                "viande seche"
+            ],
+            "boundingBox": {
+                "height": 403.90140845070425,
+                "width": 694.3529411764705,
+                "left": 332.4319852941176,
+                "top": 232.5492957746479
+            },
+            "points": [
+                {
+                    "x": 332.4319852941176,
+                    "y": 232.5492957746479
+                },
+                {
+                    "x": 1026.784926470588,
+                    "y": 232.5492957746479
+                },
+                {
+                    "x": 1026.784926470588,
+                    "y": 636.4507042253521
+                },
+                {
+                    "x": 332.4319852941176,
+                    "y": 636.4507042253521
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

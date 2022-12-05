@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "cf14d6951f0a4decd3677ea51e1156b8",
+        "name": "souche-de-pain.jpg",
+        "path": "file:/home/leo/Desktop/New%20Folder12/novo/souche-de-pain.jpg",
+        "size": {
+            "width": 1300,
+            "height": 956
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "DRt5GTjbP",
+            "type": "RECTANGLE",
+            "tags": [
+                "gateau"
+            ],
+            "boundingBox": {
+                "height": 297.90845070422534,
+                "width": 774.6113989637306,
+                "left": 423.85241256476684,
+                "top": 289.49295774647885
+            },
+            "points": [
+                {
+                    "x": 423.85241256476684,
+                    "y": 289.49295774647885
+                },
+                {
+                    "x": 1198.4638115284974,
+                    "y": 289.49295774647885
+                },
+                {
+                    "x": 1198.4638115284974,
+                    "y": 587.4014084507043
+                },
+                {
+                    "x": 423.85241256476684,
+                    "y": 587.4014084507043
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

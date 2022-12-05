@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ac722e09832c15fb0da37193cb25653c",
+        "name": "doro-rago%C3%BBt-de-poulet.jpg",
+        "path": "file:/home/leo/Desktop/New%20Folder12/novo/doro-rago%C3%BBt-de-poulet.jpg",
+        "size": {
+            "width": 1300,
+            "height": 861
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "AqjCQx9Ub",
+            "type": "RECTANGLE",
+            "tags": [
+                "bouillont de viande"
+            ],
+            "boundingBox": {
+                "height": 306.2007042253521,
+                "width": 396.96969696969694,
+                "left": 445.9280303030303,
+                "top": 239.50352112676057
+            },
+            "points": [
+                {
+                    "x": 445.9280303030303,
+                    "y": 239.50352112676057
+                },
+                {
+                    "x": 842.8977272727273,
+                    "y": 239.50352112676057
+                },
+                {
+                    "x": 842.8977272727273,
+                    "y": 545.7042253521126
+                },
+                {
+                    "x": 445.9280303030303,
+                    "y": 545.7042253521126
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

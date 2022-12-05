@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ad37f58e28a14a4b47c0b1d706fc09dc",
+        "name": "rago%C3%BBt-de-poulet.jpg",
+        "path": "file:/home/leo/Desktop/New%20Folder12/novo/rago%C3%BBt-de-poulet.jpg",
+        "size": {
+            "width": 1300,
+            "height": 767
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "tn7kN2N33",
+            "type": "RECTANGLE",
+            "tags": [
+                "bouillont de viande"
+            ],
+            "boundingBox": {
+                "height": 578.155303030303,
+                "width": 855.5307262569833,
+                "left": 230.94972067039106,
+                "top": 94.46774384469697
+            },
+            "points": [
+                {
+                    "x": 230.94972067039106,
+                    "y": 94.46774384469697
+                },
+                {
+                    "x": 1086.4804469273743,
+                    "y": 94.46774384469697
+                },
+                {
+                    "x": 1086.4804469273743,
+                    "y": 672.623046875
+                },
+                {
+                    "x": 230.94972067039106,
+                    "y": 672.623046875
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

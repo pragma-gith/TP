@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d85ed84e2fefe66dc303777cdca56e57",
+        "name": "poulet-sauce-soja-et-gingembre-610x300.jpg",
+        "path": "file:/home/leo/Desktop/New%20Folder12/novo/poulet-sauce-soja-et-gingembre-610x300.jpg",
+        "size": {
+            "width": 610,
+            "height": 300
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CpVB5sbV3",
+            "type": "RECTANGLE",
+            "tags": [
+                "viande"
+            ],
+            "boundingBox": {
+                "height": 224.99999999999997,
+                "width": 445.7430167597765,
+                "left": 7.497206703910614,
+                "top": 4.154829545454545
+            },
+            "points": [
+                {
+                    "x": 7.497206703910614,
+                    "y": 4.154829545454545
+                },
+                {
+                    "x": 453.24022346368713,
+                    "y": 4.154829545454545
+                },
+                {
+                    "x": 453.24022346368713,
+                    "y": 229.15482954545453
+                },
+                {
+                    "x": 7.497206703910614,
+                    "y": 229.15482954545453
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

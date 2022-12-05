@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e67a67b78064e7bba4cde2a18e523081",
+        "name": "sabaya%20galette%20feuillet%C3%A9e.jpg",
+        "path": "file:/home/leo/Desktop/New%20Folder12/novo/sabaya%20galette%20feuillet%C3%A9e.jpg",
+        "size": {
+            "width": 960,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "vosbsltfs",
+            "type": "RECTANGLE",
+            "tags": [
+                "crepe"
+            ],
+            "boundingBox": {
+                "height": 281.40845070422534,
+                "width": 206.71070013210038,
+                "left": 371.7899603698811,
+                "top": 323.23943661971833
+            },
+            "points": [
+                {
+                    "x": 371.7899603698811,
+                    "y": 323.23943661971833
+                },
+                {
+                    "x": 578.5006605019814,
+                    "y": 323.23943661971833
+                },
+                {
+                    "x": 578.5006605019814,
+                    "y": 604.6478873239437
+                },
+                {
+                    "x": 371.7899603698811,
+                    "y": 604.6478873239437
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

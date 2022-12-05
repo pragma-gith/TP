@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d6b42aef40a9232a24557eba832965b9",
+        "name": "domada-ragout-d-arachide.jpg",
+        "path": "file:/home/leo/Desktop/New%20Folder12/novo/domada-ragout-d-arachide.jpg",
+        "size": {
+            "width": 1300,
+            "height": 986
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "l1gRkCjd7",
+            "type": "RECTANGLE",
+            "tags": [
+                "bouillont de viande"
+            ],
+            "boundingBox": {
+                "height": 432.24295774647885,
+                "width": 781.041388518024,
+                "left": 88.43666555407209,
+                "top": 222.19718309859155
+            },
+            "points": [
+                {
+                    "x": 88.43666555407209,
+                    "y": 222.19718309859155
+                },
+                {
+                    "x": 869.4780540720961,
+                    "y": 222.19718309859155
+                },
+                {
+                    "x": 869.4780540720961,
+                    "y": 654.4401408450705
+                },
+                {
+                    "x": 88.43666555407209,
+                    "y": 654.4401408450705
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

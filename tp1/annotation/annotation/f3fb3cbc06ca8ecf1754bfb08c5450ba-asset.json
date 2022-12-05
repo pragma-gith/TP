@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f3fb3cbc06ca8ecf1754bfb08c5450ba",
+        "name": "riz%20djiboutien.jpg",
+        "path": "file:/home/leo/Desktop/New%20Folder12/novo/riz%20djiboutien.jpg",
+        "size": {
+            "width": 952,
+            "height": 1024
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "GDqf1aa7M",
+            "type": "RECTANGLE",
+            "tags": [
+                "riz"
+            ],
+            "boundingBox": {
+                "height": 674.2535211267606,
+                "width": 744.6515151515151,
+                "left": 143.39725378787878,
+                "top": 263.2112676056338
+            },
+            "points": [
+                {
+                    "x": 143.39725378787878,
+                    "y": 263.2112676056338
+                },
+                {
+                    "x": 888.0487689393939,
+                    "y": 263.2112676056338
+                },
+                {
+                    "x": 888.0487689393939,
+                    "y": 937.4647887323944
+                },
+                {
+                    "x": 143.39725378787878,
+                    "y": 937.4647887323944
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

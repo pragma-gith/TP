@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fae4716c0e957ec3230ff9da929cab56",
+        "name": "soupe-harira.jpg",
+        "path": "file:/home/leo/Desktop/New%20Folder12/novo/soupe-harira.jpg",
+        "size": {
+            "width": 1300,
+            "height": 866
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "v3xBlxu0P",
+            "type": "RECTANGLE",
+            "tags": [
+                "soupe "
+            ],
+            "boundingBox": {
+                "height": 362.8661971830986,
+                "width": 830.5978898007035,
+                "left": 252.72750586166472,
+                "top": 251.56690140845072
+            },
+            "points": [
+                {
+                    "x": 252.72750586166472,
+                    "y": 251.56690140845072
+                },
+                {
+                    "x": 1083.3253956623682,
+                    "y": 251.56690140845072
+                },
+                {
+                    "x": 1083.3253956623682,
+                    "y": 614.4330985915493
+                },
+                {
+                    "x": 252.72750586166472,
+                    "y": 614.4330985915493
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
